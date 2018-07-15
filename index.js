@@ -20,6 +20,5 @@ function divide(a,b){
 var n= 15
 
 function inc(n) {
-  return (n++)
-  console.log(n+1)
+  return (n+=1)
 }
