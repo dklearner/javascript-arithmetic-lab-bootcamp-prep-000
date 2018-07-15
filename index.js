@@ -17,3 +17,12 @@ function divide(a,b){
   return(a/b)
 }
 
+var n= 15
+
+function inc(n) {
+  return (n++)
+}
+
+function dec(n){
+  return (n--)
+}
