@@ -31,5 +31,4 @@ var n=12
 
 function makeInt(n){
   parseInt('n',10)
-  return(n)
 }
