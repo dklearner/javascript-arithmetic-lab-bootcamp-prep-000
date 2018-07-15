@@ -5,4 +5,4 @@ function add(a,b) {
   a+b
 }
 
-console.log add(a,b)
+console.log (add(a,b))
