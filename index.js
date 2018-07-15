@@ -19,6 +19,8 @@ function divide(a,b){
 
 var n= 15
 
+n++
+
 function inc(n) {
   return (n++)
 }
