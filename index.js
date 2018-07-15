@@ -22,7 +22,3 @@ var n= 15
 function inc(n) {
   return (n++)
 }
-
-function dec(n){
-  return (n--)
-}
