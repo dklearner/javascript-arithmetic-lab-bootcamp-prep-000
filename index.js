@@ -1,6 +1,6 @@
-var a=1000
-var b=1000
+var a=5
+var b=9
 
-function add(a,b){
-  a+=12
+function add(){
+  a+b
 }
