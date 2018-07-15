@@ -27,6 +27,8 @@ function dec(n){
   return (n-=1)
 }
 
+var n = 5 
+
 function makeInt(n){
-  return (parseInt('5',10))
+  
 }
