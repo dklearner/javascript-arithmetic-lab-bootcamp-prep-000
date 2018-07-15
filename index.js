@@ -21,5 +21,5 @@ var n= 15
 
 function inc(n) {
   return (n++)
-  n
+  console.log(n)
 }
